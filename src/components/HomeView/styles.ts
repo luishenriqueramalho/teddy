@@ -19,7 +19,8 @@ export const AreaLogo = styled.div`
   display: flex;
   width: 100%;
   background-color: #924e31;
-  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   align-items: center;
   justify-content: center;
 `;
