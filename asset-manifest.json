@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/teddy/static/css/main.3a3e87e5.css",
+    "main.js": "/teddy/static/js/main.069831e3.js",
+    "static/js/453.12297348.chunk.js": "/teddy/static/js/453.12297348.chunk.js",
+    "static/media/background-auth.png": "/teddy/static/media/background-auth.b93bad792eccfa016e54.png",
+    "index.html": "/teddy/index.html",
+    "main.3a3e87e5.css.map": "/teddy/static/css/main.3a3e87e5.css.map",
+    "main.069831e3.js.map": "/teddy/static/js/main.069831e3.js.map",
+    "453.12297348.chunk.js.map": "/teddy/static/js/453.12297348.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a3e87e5.css",
+    "static/js/main.069831e3.js"
+  ]
+}
